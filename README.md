@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/nima-abbasi2004"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/nima-abbasi2004"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:nimaabbassi2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=NimaWyd&style=for-the-badge&color=2e86c1&label=Profile+views" alt="Profile views" />
 </p>
@@ -15,13 +15,13 @@
 
 ## About
 
-Computer Science student at Western University. I build practical ML systems: well-evaluated, explainable, and honest about what the data can and can't say.
+Computer Science student at Western University. I build practical ML systems that are well-evaluated, explainable, and honest about what the data can and can't say.
 
 ---
 
 ## Experience
 
-- **ML Engineering Intern, FlyRank AI** (Summer 2026). Ranking-signal analysis on a ~79M-row search dataset with DuckDB.
+- **ML Engineering Intern, FlyRank AI** (Summer 2026). Ranking-signal analysis on a ~79M-row search dataset using DuckDB.
 - **AI/ML Extern, Pfizer** (Summer 2026). OCR and RAG pipelines for pharmaceutical and compliance documents.
 - **AI Trainer, Outlier** (Spring 2026). Built evaluation tasks and assessed LLM outputs for accuracy and reasoning.
 
@@ -29,7 +29,7 @@ Computer Science student at Western University. I build practical ML systems: we
 
 ## Currently
 
-- Developer at Western Cyber Society, working on cybersecurity and AI
+- Developer at Western Cyber Society, working at the intersection of cybersecurity and AI
 - Building my portfolio site
 - Going deeper on deep learning with PyTorch
 
